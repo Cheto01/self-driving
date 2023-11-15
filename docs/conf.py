@@ -185,7 +185,7 @@ latex_elements = {
 latex_documents = [
     ('index',
      'self-driving.tex',
-     u'autonomous-driving Documentation',
+     u'Autonomous-driving Documentation',
      u"Cherubin Mugisha", 'manual'),
 ]
 
@@ -215,7 +215,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'self-driving', u'autonomous-driving Documentation',
+    ('index', 'self-driving', u'Autonomous-driving Documentation',
      [u"Cherubin Mugisha"], 1)
 ]
 
@@ -230,7 +230,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     ('index', 'self-driving', u'autonomous-driving Documentation',
-     u"Cherubin Mugisha", 'autonomous-driving',
+     u"Cherubin Mugisha", 'Autonomous-driving',
      'This project is a continuity and improvement of a long personal modular project. It aims to agregrate diverse concepts and ideas of different challenges in autonomous driving', 'Miscellaneous'),
 ]
 
